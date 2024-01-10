@@ -1,0 +1,26 @@
+{
+  "jefes_de_sucursal": {
+    "jefe_sucursal_1": {
+      "id": "jefe_sucursal_1",
+      "jefes_de_venta": {
+        "jefe_venta_1": {
+          "id": "jefe_venta_1"
+        },
+        "jefe_venta_2": {
+          "id": "jefe_venta_2"
+        }
+      }
+    },
+    "jefe_sucursal_2": {
+      "id": "jefe_sucursal_2",
+      "jefes_de_venta": {
+        "jefe_venta_3": {
+          "id": "jefe_venta_3"
+        },
+        "jefe_venta_4": {
+          "id": "jefe_venta_4"
+        }
+      }
+    }
+  }
+}
