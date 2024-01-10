@@ -1,0 +1,26 @@
+{
+  "jefes_de_venta": {
+    "jefe_venta_1": {
+      "id": "jefe_venta_1",
+      "vendedores": {
+        "vendedor1": {
+          "id": "vendedor1"
+        },
+        "vendedor2": {
+          "id": "vendedor2"
+        }
+      }
+    },
+    "jefe_venta_2": {
+      "id": "jefe_venta_2",
+      "vendedores": {
+        "vendedor3": {
+          "id": "vendedor3"
+        },
+        "vendedor4": {
+          "id": "vendedor4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,870 @@
+{
+  "vendedor1": {
+    "AnalisisModoContactos":{
+      "2020":{
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [46, 11, 21, 45, 67],
+            "Renovacion": [2,23,55,34,23],
+            "Todo" : [54,64,91,68,65]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 55, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 36, 34, 42, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 26, 24, 32, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 21, 16, 14, 22, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 12, 10, 9]
+              }
+            ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [44, 67, 21, 76, 55],
+            "Renovacion": [89, 33, 78, 15, 32],
+            "Todo" : [68, 47, 18, 92, 24]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 55, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 36, 34, 42, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 26, 24, 32, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 21, 16, 14, 22, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 12, 10, 9]
+              }
+            ]
+        }
+      },
+      "2021":{
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [14, 59, 76, 28, 51],
+            "Renovacion": [74, 20, 36, 61, 16],
+            "Todo" : [93, 50, 28, 17, 84]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 55, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 36, 34, 42, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 26, 24, 32, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 21, 16, 14, 22, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 12, 10, 9]
+              }
+            ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas":[42, 81, 14, 59, 73],
+            "Renovacion": [19, 70, 38, 51, 63],
+            "Todo" : [47, 86, 18, 34, 57]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [15, 31, 31, 31, 31, 32, 31]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [321, 32, 31, 31, 87, 95, 41]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [31, 2, 31, 34, 56, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 65, 26, 24, 82, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 43, 16, 14, 22, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 43, 10, 9]
+              }
+            ]
+        }
+      },
+      "2022":{
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [34, 41, 32, 34, 42],
+            "Renovacion": [20,23,32,34,23],
+            "Todo" : [54,32,91,68,65]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 131, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 36, 34, 42, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 31, 32, 32, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 211, 16, 14, 7, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 67, 6, 4, 12, 10, 9]
+              }
+            ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [73, 5, 21, 76, 55],
+            "Renovacion": [89, 33, 134, 15, 32],
+            "Todo" : [68, 65, 18, 92, 24]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 55, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 87, 34, 34, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 43, 24, 32, 54, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 21, 16, 14, 22, 65, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 12, 10, 9]
+              }
+            ]
+        }
+      },
+      "2023":{
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [14, 59, 76, 28, 51],
+            "Renovacion": [74, 20, 36, 61, 16],
+            "Todo" : [93, 50, 28, 17, 84]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 55, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 36, 34, 42, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 26, 24, 32, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 21, 16, 14, 22, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 12, 10, 9]
+              }
+            ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas":[42, 81, 14, 59, 73],
+            "Renovacion": [19, 70, 38, 51, 63],
+            "Todo" : [47, 86, 18, 34, 57]
+          },
+          "Subtipo":[
+              {
+                "name": "Presencial",
+                "data": [44, 55, 57, 55, 50, 52, 49]
+              },
+              {
+                "name": "Llamada de Whatsapp",
+                "data": [76, 85, 101, 99, 87, 95, 105]
+              },
+              {
+                "name": "Llamada Celular",
+                "data": [35, 41, 36, 34, 42, 40, 39]
+              },
+              {
+                "name": "Videollamada",
+                "data": [25, 31, 26, 24, 32, 30, 29]
+              },
+              {
+                "name": "Mensaje Whatsapp",
+                "data": [15, 21, 16, 14, 22, 20, 19]
+              },
+              {
+                "name": "E-mail",
+                "data": [5, 11, 6, 4, 12, 10, 9]
+              }
+            ]
+        }
+      }
+    },
+    "Volumen_Ventas": {
+      "Ventas_Nuevas": {
+        "valor": 9000,
+        "contratos": 10
+      },
+      "Renovaciones": {
+        "valor": 3000,
+        "contratos": 10
+      },
+      "Volumen_Ventas": {
+        "valor": 8000,
+        "contratos": 10
+      },
+      "Contratos_Inactivos": {
+        "Ventas_Nuevas": {
+          "valor": 3000,
+          "contratos": 5
+        },
+        "Renovaciones": {
+          "valor": 2000,
+          "contratos": 5
+        },
+        "Volumen_Ventas": {
+          "valor": 3000,
+          "contratos": 5
+        }
+      },
+      "Ventas_Nuevas_Reales": {
+        "valor": 6000,
+        "contratos": 5
+      },
+      "Renovaciones_Reales": {
+        "valor": 1000,
+        "contratos": 5
+      },
+      "Volumen_Ventas_Reales": {
+        "valor": 5000,
+        "contratos": 5
+      },
+      "Mensual": {
+        "nivel": 1,
+        "porcentajeNivel": 50,
+        "MetaNivel": 6000
+      },
+      "ContratosxRenovar": {
+        "contratos": 8,
+        "porcentaje": 50,
+        "meta": 10
+      },
+      "Bonificacion": {
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 6000
+      },
+      "VentasxOrigen": {
+        "series2": [
+          {
+            "name": "Contratos Activos",
+            "data": [44, 55, 57, 56]
+          },
+          {
+            "name": "Contratos Inactivos",
+            "data": [76, 85, 101, 98]
+          },
+          {
+            "name": "Volumen de ventas",
+            "data": [35, 41, 36, 26]
+          }
+        ]
+      },
+      "Ley_de_Compensacion": {
+        "series6": [
+          {
+            "name": "Direct",
+            "data": [57, 0]
+          },
+          {
+            "name": "Referal",
+            "data": [99, 0]
+          },
+          {
+            "name": "Social",
+            "data": [34, 0]
+          }
+        ]
+      },
+      "Ventas": {
+        "series7": [
+          {
+            "name": "Contratos Activos",
+            "data": [44, 55, 57, 50, 48, 53]
+          },
+          {
+            "name": "Contratos Inactivos",
+            "data": [76, 85, 101, 90, 88, 79]
+          },
+          {
+            "name": "Volumen de Ventas",
+            "data": [35, 41, 36, 30, 0, 0]
+          }
+        ]
+      },
+      "Subtipo": {
+        "series4": [
+          {
+            "name": "Direct",
+            "data": [44, 55, 57, 55, 50, 52, 49]
+          },
+          {
+            "name": "Referal",
+            "data": [76, 85, 101, 99, 87, 95, 105]
+          },
+          {
+            "name": "Social",
+            "data": [35, 41, 36, 34, 42, 40, 39]
+          }
+        ]
+      }
+    },
+    "NegociosPorCerrar": {
+      "Subtipo": {
+        "series4": [
+          {
+            "name": "Direct",
+            "data": [43, 55, 57, 55, 50, 52, 48]
+          },
+          {
+            "name": "Referal",
+            "data": [75, 85, 101, 99, 87, 95, 104]
+          },
+          {
+            "name": "Social",
+            "data": [34, 41, 36, 34, 42, 40, 38]
+          }
+        ]
+      }
+    },
+    "GestionVentas": {
+      "contactosTelefonicos": {
+        "contactos": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "citasNuevasObtenidas": {
+        "citas": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "citasNuevasConcretadas": {
+        "citas": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "NegociosPorCerrar": {
+        "negocios": 18,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35,
+        "valor": 34440
+      },
+      
+      "CitasCierreConcretadas": {
+        "citas": 18,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35,
+        "valor": 22500
+      },
+      "Referidos": {
+        "referidos": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "AsistenciaPuntual": {
+        "RPS": "visto",
+        "CPQ": "cruz",
+        "CMV": "visto"
+      },
+      "HorariosCitas": {
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "columnaChart": {
+        "serie": [
+          {
+            "name": "Contratos Activos",
+            "data": [44, 55, 57, 56, 50, 60]
+          }
+        ]
+      },
+      "columnaChart2": {
+        "series4": [
+          {
+            "name": "Direct",
+            "data": [43, 55, 57, 55, 50, 52, 48]
+          },
+          {
+            "name": "Referal",
+            "data": [75, 85, 101, 99, 87, 95, 104]
+          },
+          {
+            "name": "Social",
+            "data": [34, 41, 36, 34, 42, 40, 38]
+          }
+        ]
+      }
+    }
+  },
+  "vendedor2": {
+    "AnalisisModoContactos":{
+      "2020": {
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [15, 28, 49, 36, 21],
+            "Renovacion": [45, 32, 14, 27, 39],
+            "Todo": [71, 44, 63, 29, 58]
+          },
+          "Subtipo": [
+            { "name": "Presencial", "data": [36, 45, 27, 55, 63, 21, 14] },
+            { "name": "Llamada de Whatsapp", "data": [49, 22, 27, 50, 36, 18, 45] },
+            { "name": "Llamada Celular", "data": [14, 36, 63, 21, 45, 27, 18] },
+            { "name": "Videollamada", "data": [27, 50, 18, 22, 36, 14, 63] },
+            { "name": "Mensaje Whatsapp", "data": [63, 14, 50, 36, 27, 45, 22] },
+            { "name": "E-mail", "data": [22, 27, 36, 14, 63, 45, 50] }
+          ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [49, 32, 14, 27, 36],
+            "Renovacion": [21, 45, 27, 63, 18],
+            "Todo": [71, 44, 63, 29, 58]
+          },
+          "Subtipo": [
+            { "name": "Presencial", "data": [45, 27, 55, 63, 21, 36, 14] },
+            { "name": "Llamada de Whatsapp", "data": [22, 27, 50, 36, 18, 45, 49] },
+            { "name": "Llamada Celular", "data": [36, 63, 21, 45, 27, 18, 14] },
+            { "name": "Videollamada", "data": [50, 18, 22, 36, 14, 63, 27] },
+            { "name": "Mensaje Whatsapp", "data": [14, 50, 36, 27, 45, 22, 63] },
+            { "name": "E-mail", "data": [27, 36, 14, 63, 45, 50, 22] }
+          ]
+        }
+      },
+      "2021": {
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [25, 38, 59, 46, 31],
+            "Renovacion": [55, 42, 24, 37, 49],
+            "Todo": [81, 54, 73, 39, 68]
+          },
+          "Subtipo": [
+            { "name": "Presencial", "data": [46, 55, 37, 65, 73, 31, 24] },
+            { "name": "Llamada de Whatsapp", "data": [59, 32, 37, 52, 46, 28, 55] },
+            { "name": "Llamada Celular", "data": [24, 46, 73, 31, 55, 37, 28] },
+            { "name": "Videollamada", "data": [37, 52, 28, 32, 46, 24, 73] },
+            { "name": "Mensaje Whatsapp", "data": [73, 24, 52, 46, 37, 55, 32] },
+            { "name": "E-mail", "data": [32, 37, 46, 24, 73, 55, 52] }
+          ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [59, 32, 14, 27, 36],
+            "Renovacion": [31, 55, 37, 73, 28],
+            "Todo": [81, 54, 73, 39, 68]
+          },
+          "Subtipo": [
+            { "name": "Presencial", "data": [55, 37, 65, 73, 31, 46, 24] },
+            { "name": "Llamada de Whatsapp", "data": [32, 37, 52, 46, 28, 55, 59] },
+            { "name": "Llamada Celular", "data": [46, 73, 31, 55, 37, 28, 24] },
+            { "name": "Videollamada", "data": [37, 52, 28, 32, 46, 24, 73] },
+            { "name": "Mensaje Whatsapp", "data": [24, 52, 46, 37, 55, 32, 73] },
+            { "name": "E-mail", "data": [37, 46, 24, 73, 55, 52, 32] }
+          ]
+        }
+      },
+      "2022": {
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [12, 45, 31, 76, 23],
+            "Renovacion": [54, 68, 87, 46, 34],
+            "Todo": [77, 21, 58, 76, 43]
+          },
+          "Subtipo": [
+            { "name": "Presencial", "data": [41, 14, 36, 65, 50, 21, 89] },
+            { "name": "Llamada de Whatsapp", "data": [56, 99, 29, 84, 73, 65, 91] },
+            { "name": "Llamada Celular", "data": [61, 34, 52, 43, 22, 70, 19] },
+            { "name": "Videollamada", "data": [92, 27, 44, 53, 38, 29, 75] },
+            { "name": "Mensaje Whatsapp", "data": [16, 19, 21, 50, 42, 89, 67] },
+            { "name": "E-mail", "data": [12, 44, 64, 18, 79, 10, 58] }
+          ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [31, 68, 52, 74, 29],
+            "Renovacion": [18, 87, 45, 52, 19],
+            "Todo": [67, 33, 76, 58, 21]
+          },
+          "Subtipo": [
+            { "name": "Presencial", "data": [50, 84, 38, 21, 56, 92, 69] },
+            { "name": "Llamada de Whatsapp", "data": [23, 44, 95, 11, 65, 19, 76] },
+            { "name": "Llamada Celular", "data": [40, 34, 29, 52, 67, 11, 49] },
+            { "name": "Videollamada", "data": [30, 58, 75, 41, 14, 91, 66] },
+            { "name": "Mensaje Whatsapp", "data": [21, 49, 84, 58, 16, 67, 33] },
+            { "name": "E-mail", "data": [31, 95, 22, 49, 64, 76, 18] }
+          ]
+        }
+      },
+      "2023":{
+        "Enero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [60, 32, 65, 43, 30],
+            "Renovacion": [24,45,28,31,42],
+            "Todo" : [84,77,93,74,62]
+          },
+          "Subtipo":[
+            {
+              "name": "Presencial",
+              "data":  [76, 85, 101, 99, 87, 95, 105]
+            },
+            {
+              "name": "Llamada de Whatsapp",
+              "data": [15, 21, 16, 14, 22, 20, 19]
+            },
+            {
+              "name": "Llamada Celular",
+              "data": [35, 41, 36, 34, 42, 40, 39]
+            },
+            {
+              "name": "Videollamada",
+              "data": [25, 31, 26, 24, 32, 30, 29]
+            },
+            {
+              "name": "Mensaje Whatsapp",
+              "data": [44, 55, 57, 55, 50, 52, 49]
+            },
+            {
+              "name": "E-mail",
+              "data": [5, 11, 6, 4, 12, 10, 9]
+            }
+          ]
+        },
+        "Febrero": {
+          "VentasxPlan": {
+            "Ventas_Nuevas": [60, 32, 65, 43, 20],
+            "Renovacion": [24,45,28,31,42],
+            "Todo" : [84,77,93,74,62]
+          },
+          "Subtipo":[
+            {
+              "name": "Presencial",
+              "data":  [76, 85, 101, 99, 87, 95, 105]
+            },
+            {
+              "name": "Llamada de Whatsapp",
+              "data": [15, 21, 16, 14, 22, 20, 19]
+            },
+            {
+              "name": "Llamada Celular",
+              "data": [35, 41, 36, 34, 42, 40, 39]
+            },
+            {
+              "name": "Videollamada",
+              "data": [25, 31, 26, 24, 32, 30, 29]
+            },
+            {
+              "name": "Mensaje Whatsapp",
+              "data": [44, 55, 57, 55, 50, 52, 49]
+            },
+            {
+              "name": "E-mail",
+              "data": [5, 11, 6, 4, 12, 10, 9]
+            }
+          ]
+        }
+      }
+      
+    },
+    "Volumen_Ventas": {
+      "Ventas_Nuevas": {
+        "valor": 12000,
+        "contratos": 10
+      },
+      "Renovaciones": {
+        "valor": 3000,
+        "contratos": 10
+      },
+      "Volumen_Ventas": {
+        "valor": 9000,
+        "contratos": 10
+      },
+      "Contratos_Inactivos": {
+        "Ventas_Nuevas": {
+          "valor": 3000,
+          "contratos": 5
+        },
+        "Renovaciones": {
+          "valor": 2000,
+          "contratos": 5
+        },
+        "Volumen_Ventas": {
+          "valor": 3000,
+          "contratos": 5
+        }
+      },
+      "Ventas_Nuevas_Reales": {
+        "valor": 9000,
+        "contratos": 5
+      },
+      "Renovaciones_Reales": {
+        "valor": 1000,
+        "contratos": 5
+      },
+      "Volumen_Ventas_Reales": {
+        "valor": 6000,
+        "contratos": 5
+      },
+      "Mensual": {
+        "nivel": 1,
+        "porcentajeNivel": 50,
+        "MetaNivel": 6000
+      },
+      "ContratosxRenovar": {
+        "contratos": 7,
+        "porcentaje": 50,
+        "meta": 10
+      },
+      "Bonificacion": {
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 6000
+      },
+      "VentasxOrigen": {
+        "series2": [
+          {
+            "name": "Contratos Activos",
+            "data": [44, 55, 57, 57]
+          },
+          {
+            "name": "Contratos Inactivos",
+            "data": [76, 85, 101, 99]
+          },
+          {
+            "name": "Volumen de ventas",
+            "data": [35, 41, 36, 27]
+          }
+        ]
+      },
+      "Ley_de_Compensacion": {
+        "series6": [
+          {
+            "name": "Direct",
+            "data": [57, 0]
+          },
+          {
+            "name": "Referal",
+            "data": [99, 0]
+          },
+          {
+            "name": "Social",
+            "data": [34, 0]
+          }
+        ]
+      },
+      "Ventas": {
+        "series7": [
+          {
+            "name": "Contratos Activos",
+            "data": [44, 55, 57, 50, 48, 54]
+          },
+          {
+            "name": "Contratos Inactivos",
+            "data": [76, 85, 101, 90, 88, 80]
+          },
+          {
+            "name": "Volumen de Ventas",
+            "data": [35, 41, 36, 30, 0, 1]
+          }
+        ]
+      },
+      "Subtipo": {
+        "series4": [
+          {
+            "name": "Direct",
+            "data": [44, 55, 57, 55, 50, 52, 50]
+          },
+          {
+            "name": "Referal",
+            "data": [76, 85, 101, 99, 87, 95, 106]
+          },
+          {
+            "name": "Social",
+            "data": [35, 41, 36, 34, 42, 40, 40]
+          }
+        ]
+      }
+    },
+    "NegociosPorCerrar": {
+      "Subtipo": {
+        "series4": [
+          {
+            "name": "Direct",
+            "data": [44, 55, 57, 55, 50, 52, 50]
+          },
+          {
+            "name": "Referal",
+            "data": [76, 85, 101, 99, 87, 95, 106]
+          },
+          {
+            "name": "Social",
+            "data": [35, 41, 36, 34, 42, 40, 40]
+          }
+        ]
+      }
+    },
+    "GestionVentas": {
+      "contactosTelefonicos": {
+        "contactos": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "citasNuevasObtenidas": {
+        "citas": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "citasNuevasConcretadas": {
+        "citas": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "NegociosPorCerrar": {
+        "negocios": 16,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35,
+        "valor": 34440
+      },
+      "CitasCierreConcretadas": {
+        "citas": 17,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35,
+        "valor": 22500
+      },
+      "Referidos": {
+        "referidos": 30,
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "AsistenciaPuntual": {
+        "RPS": "cruz",
+        "CPQ": "visto",
+        "CMV": "cruz"
+      },
+      "HorariosCitas": {
+        "nivel": 0,
+        "porcentaje": 50,
+        "meta": 35
+      },
+      "columnaChart": {
+        "serie": [
+          {
+            "name": "Contratos Activos",
+            "data": [43, 55, 57, 56, 50, 62]
+          }
+        ]
+      },
+      "columnaChart2": {
+        "series4": [
+          {
+            "name": "Direct",
+            "data": [43, 55, 57, 55, 50, 52, 48]
+          },
+          {
+            "name": "Referal",
+            "data": [75, 85, 101, 99, 87, 95, 104]
+          },
+          {
+            "name": "Social",
+            "data": [34, 41, 36, 34, 42, 40, 38]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,127 @@
+// material-ui
+
+
+// project import
+import MainCard from 'components/MainCard';
+import React from 'react';
+import { useEffect, useState } from 'react';
+import { Grid, Table, TableBody, TableCell, TableContainer, TableRow, Box, List, ListItemText, Typography, ListItemSecondaryAction, Stack, Select, MenuItem } from '@mui/material';
+
+import ApexRadialChart from 'sections/charts/apexchart/ApexRadialChart';
+import AcquisitionChart from 'sections/dashboard/analytics/AcquisitionChart';
+import ApexPieChart from 'sections/charts/apexchart/ApexPieChart';
+
+
+
+
+// ==============================|| SAMPLE PAGE ||============================== //
+const barChartOptions = {
+  chart: {
+    type: 'bar',
+    height: 250,
+    width: '100%',
+    stacked: true,
+    toolbar: {
+      show: false
+    }
+  },
+  xaxis: {
+    axisBorder: {
+      show: false
+    },
+    axisTicks: {
+      show: false
+    },
+    labels: {
+      show: false
+    }
+  },
+  yaxis: {
+    axisBorder: {
+      show: false
+    },
+    axisTicks: {
+      show: false
+    },
+    labels: {
+      show: false
+    }
+  },
+  tooltip: {
+    x: {
+      show: false
+    }
+  },
+  legend: {
+    show: true,
+    position: 'bottom',
+    horizontalAlign: 'left',
+    offsetX: 10,
+    markers: {
+      width: 8,
+      height: 8,
+      radius: '50%'
+    }
+  },
+  dataLabels: {
+    enabled: false
+  },
+  grid: {
+    show: false
+  },
+  stroke: {
+    colors: ['transparent'],
+    width: 1
+  }
+};
+const serie4 = [
+  {
+    name: 'Direct',
+    data: [44, 55, 57, 55, 50, 52, 49]
+  },
+  {
+    name: 'Referal',
+    data: [76, 85, 101, 99, 87, 95, 105]
+  },
+  {
+    name: 'Social',
+    data: [35, 41, 36, 34, 42, 40, 39]
+  }
+];
+const NegociosxCerrar = () => (
+  <MainCard title="Dashboard">
+    <TableContainer sx={{ width: '60%' }} style={{ width: '100%' }}>
+      <Table>
+        <TableBody>
+          <TableRow>
+            <TableCell style={{ width: '50%', height: '300px', border: '40px solid #c1e6df' }}>
+              <label >Negocios Por Cerrar | Plan</label>
+              <div style={{ textAlign: 'right' }}>
+                <label >Filtro: </label>
+
+                <Select defaultValue='Hola' >
+                  <MenuItem key={0} value={0}>Venta Nueva</MenuItem>
+                  <MenuItem key={1} value={1}>Renovación</MenuItem>
+                  <MenuItem key={2} value={2}>Todo</MenuItem>
+                </Select>
+              </div>
+              <ApexPieChart />
+            </TableCell>
+            <TableCell style={{ width: '50%', height: '300px', border: '40px solid #c1e6df' }}>
+              <Grid sx={{ width: '100%', height: '100%', display: 'flex', alignContent: 'space-between', flexDirection: 'column', justifyContent: 'space-between' }}>
+                <Grid>
+                  <label> Subtipo Plan </label>
+                </Grid>
+                <Grid>
+                  <AcquisitionChart opciones={barChartOptions} series={serie4} type="bar" height={250} />
+                </Grid>
+              </Grid>
+            </TableCell>
+          </TableRow>
+        </TableBody>
+      </Table>
+    </TableContainer>
+  </MainCard>
+);
+
+export default NegociosxCerrar;
